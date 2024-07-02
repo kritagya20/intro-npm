@@ -1,0 +1,40 @@
+{
+  "name": "kritagya",
+  "version": "1.0.0",
+  "description": "This is an NPM package of Kritagya Singh Chouhan.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "bin": {
+    "kritagya-intro": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KritagyaChouhan20/intro-npm-package.git"
+  },
+  "keywords": [
+    "introduction",
+    "kritagya",
+    "kritagya",
+    "singh",
+    "chouhan",
+    "developer",
+    "web",
+    "developer",
+    "full",
+    "stack",
+    "developer"
+  ],
+  "author": "Kritagya Singh Chouhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KritagyaChouhan20/intro-npm-package/issues"
+  },
+  "homepage": "https://github.com/KritagyaChouhan20/intro-npm-package#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.0"
+  }
+}
