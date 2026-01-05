@@ -112,7 +112,7 @@ console.log(
 
 const displaySocialHandles = () => {
   console.log(
-    chalk.white("1. Portfolio: ") + chalk.cyan("https://kritagya.in")
+    chalk.white("1. Portfolio: ") + chalk.cyan("https://kritagya20.github.io/portfolio-website-react/")
   );
   console.log(
     chalk.white("2. GitHub: ") + chalk.cyan("https://github.com/kritagya20")
@@ -121,11 +121,16 @@ const displaySocialHandles = () => {
     chalk.white("3. X (Twitter): ") +
       chalk.cyan("https://x.com/kritagyachouhan")
   );
+  
   console.log(
-    chalk.white("4. LinkedIn: ") +
+    chalk.white("4. Medium: ") +
+      chalk.cyan("https://medium.com/@kritagya2022")
+  );
+  console.log(
+    chalk.white("5. LinkedIn: ") +
       chalk.cyan("https://www.linkedin.com/in/kritagyachouhan")
   );
-  console.log(chalk.white("5. Email: ") + chalk.cyan("kritagya2022@gmail.com"));
+  console.log(chalk.white("6. Email: ") + chalk.cyan("kritagya2022@gmail.com"));
 };
 
 displaySocialHandles();
